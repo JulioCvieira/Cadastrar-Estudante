@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Cidade
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Cidade\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=co\ des\ uf
+comment1.target=Cidade(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getCodigo()
+comment3.params=
+comment3.target=java.lang.String\ getDescricao()
+comment4.params=des
+comment4.target=void\ setDescricao(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getUf()
+comment6.params=uf
+comment6.target=void\ setUf(java.lang.String)
+comment7.params=
+comment7.target=void\ adicionaNovoEstudante()
+comment8.params=
+comment8.target=void\ exibeDados()
+numComments=9
